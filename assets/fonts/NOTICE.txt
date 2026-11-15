@@ -1,0 +1,18 @@
+فونت‌های میزبانی‌شده در این پوشه
+=================================
+
+Vazirmatn (وزیرمتن)
+  طراح: صابر راستی‌کردار
+  نسخهٔ فایل: متغیر (وزن ۱۰۰ تا ۹۰۰)، زیرمجموعهٔ Arabic و Latin
+  مجوز: SIL Open Font License 1.1
+  منبع: https://github.com/rastikerdar/vazirmatn
+
+Cormorant Garamond
+  طراح: Christian Thalmann
+  نسخهٔ فایل: وزن‌های ۳۰۰ و ۴۰۰، زیرمجموعهٔ Latin
+  مجوز: SIL Open Font License 1.1
+  منبع: https://github.com/CatharsisFonts/Cormorant
+
+فایل‌ها از بسته‌های Fontsource گرفته شده‌اند (https://fontsource.org)
+و به‌صورت لوکال توسط next/font/local در پروژه سرو می‌شوند.
+متن کامل مجوز: https://openfontlicense.org
